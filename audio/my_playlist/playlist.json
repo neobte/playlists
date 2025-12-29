@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Andrés Calamaro - Cartas sin marcar.m4a",
+    "duration": 264.866666,
+    "url": "blob:http://localhost/fdc66633-a6c3-47c0-8964-71e7725d264d",
+    "size": 4289414,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 2,
+    "name": "Arena Hash - Como te va mi amor.m4a",
+    "duration": 329.584036,
+    "url": "blob:http://localhost/a12c4134-2252-49c6-b7f5-5599de2aa52e",
+    "size": 5334728,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 3,
+    "name": "Arena Hash - Mil horas de amor.m4a",
+    "duration": 123.088979,
+    "url": "blob:http://localhost/fd0f7eba-3d50-4f69-b99b-d8fbd68565fc",
+    "size": 1992799,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 4,
+    "name": "Bob Marley - Jamming.m4a",
+    "duration": 213.437823,
+    "url": "blob:http://localhost/3b4fe847-866b-424b-b338-3925b5bb05c0",
+    "size": 3455080,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 5,
+    "name": "Grupo Río - Todo estaba bien.m4a",
+    "duration": 290.48,
+    "url": "blob:http://localhost/0d0f8df5-a090-431e-91c6-5f7ecc25ac39",
+    "size": 4703219,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 6,
+    "name": "La inmensidad - Ay que amor.m4a",
+    "duration": 234.053333,
+    "url": "blob:http://localhost/3d62613d-ab1b-45c3-8fcd-0fb868c4b80d",
+    "size": 3790233,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 7,
+    "name": "Los Abuelos de la Nada - Lunes por la madrugada.m4a",
+    "duration": 194.226666,
+    "url": "blob:http://localhost/f214f97a-0aaf-49f6-8433-74bbb0a435fc",
+    "size": 3145864,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 8,
+    "name": "Mar de Copas - Suna.m4a",
+    "duration": 260.693333,
+    "url": "blob:http://localhost/faf326b2-f31d-4366-8418-70a28dbe9903",
+    "size": 4220820,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 9,
+    "name": "Michael Sembello - Maniac.m4a",
+    "duration": 244.706666,
+    "url": "blob:http://localhost/6ee06e48-71b4-4eb0-945d-8006132696fa",
+    "size": 3962919,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 10,
+    "name": "Nino Segarra - Como amigo si, como amante no.m4a",
+    "duration": 286.30204,
+    "url": "blob:http://localhost/e895d12c-3779-4729-9a38-4b0bec2fc560",
+    "size": 4634180,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 11,
+    "name": "Nino Segarra - Entre la espada y la pared.m4a",
+    "duration": 344.166167,
+    "url": "blob:http://localhost/6dabf037-3c32-4790-9b65-65dd46d05b24",
+    "size": 5570761,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 12,
+    "name": "Nino Segarra - Porque te amo.mp3",
+    "duration": 306.99102,
+    "url": "blob:http://localhost/7676ab85-10b1-4e71-9ccf-9059ecd6bd11",
+    "size": 7369175,
+    "type": "audio/mpeg"
+  },
+  {
+    "id": 13,
+    "name": "Orlando Netti - Clásico.mp3",
+    "duration": 241.085166,
+    "url": "blob:http://localhost/93dd94dc-a6da-4027-904c-176b6fb1078f",
+    "size": 9699412,
+    "type": "audio/mpeg"
+  },
+  {
+    "id": 14,
+    "name": "Pedro Arroyo - Todo me huele a ti.m4a",
+    "duration": 322.08399,
+    "url": "blob:http://localhost/82ad184b-62cd-4455-8a47-db9bc9cac153",
+    "size": 5213410,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 15,
+    "name": "Pedro Suárez Vértiz - Alguien que bese como tú .m4a",
+    "duration": 366.226666,
+    "url": "blob:http://localhost/40bb4e9c-3997-4482-9eb8-1eaa889bd2e4",
+    "size": 5929605,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 16,
+    "name": "Pedro Suárez Vértiz - Te siento de sólo pensar.m4a",
+    "duration": 202.408344,
+    "url": "blob:http://localhost/79718d0b-bbff-4bfd-b770-47d41028c22e",
+    "size": 3276501,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 17,
+    "name": "Soda Stereo - Trátame suavemente.m4a",
+    "duration": 202.431564,
+    "url": "blob:http://localhost/0d7b4633-6a6e-4df0-bbb0-f9f17e557a97",
+    "size": 3276968,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 18,
+    "name": "Virus - Sin disfraz.m4a",
+    "duration": 330.303854,
+    "url": "blob:http://localhost/c0a65819-958d-4895-b188-6c8069ebcb01",
+    "size": 5346460,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 19,
+    "name": "Willie Gonzalez - Hazme olvidarla.m4a",
+    "duration": 336.133333,
+    "url": "blob:http://localhost/2ffd19a2-bd43-4c7e-b850-e9512c6fd203",
+    "size": 5442560,
+    "type": "audio/mp4"
+  }
+]
