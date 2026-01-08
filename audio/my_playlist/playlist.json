@@ -3,7 +3,6 @@
     "id": 1,
     "name": "Arena Hash - Como Te Va Mi Amor.m4a",
     "duration": 329.584036,
-    "url": "blob:http://localhost/e1e3d3c0-fd2f-4048-9345-dd0a91562aea",
     "size": 5334728,
     "type": "audio/mp4"
   },
@@ -11,7 +10,6 @@
     "id": 2,
     "name": "Arena Hash - Mil Horas De Amor.m4a",
     "duration": 123.088979,
-    "url": "blob:http://localhost/7293908f-4eeb-4932-8504-863e9f042106",
     "size": 1992799,
     "type": "audio/mp4"
   },
@@ -19,7 +17,6 @@
     "id": 3,
     "name": "Bob Marley - Jamming.m4a",
     "duration": 213.437823,
-    "url": "blob:http://localhost/0f1f8d74-d288-443c-8ab9-2ec14e428d2a",
     "size": 3455080,
     "type": "audio/mp4"
   },
@@ -27,119 +24,111 @@
     "id": 4,
     "name": "Grupo Río - Todo Estaba Bien.m4a",
     "duration": 290.48,
-    "url": "blob:http://localhost/54820952-5531-42c9-bcab-2b6a9dfab146",
     "size": 4703219,
     "type": "audio/mp4"
   },
   {
     "id": 5,
-    "name": "Los Abuelos de la Nada - Lunes Por La Madrugada.m4a",
-    "duration": 194.226666,
-    "url": "blob:http://localhost/ab1fe142-3ffe-45cc-8f61-b6dea4a9029a",
-    "size": 3145864,
+    "name": "Justin Hurwitz - Fletcher's Song In Club.m4a",
+    "duration": 89.026666,
+    "size": 1443906,
     "type": "audio/mp4"
   },
   {
     "id": 6,
     "name": "Mar de Copas - Suna.m4a",
     "duration": 260.693333,
-    "url": "blob:http://localhost/38abf355-e9a9-48ed-acd8-16ff9556dd7e",
     "size": 4220820,
     "type": "audio/mp4"
   },
   {
     "id": 7,
-    "name": "Michael Sembello - Maniac.m4a",
-    "duration": 244.706666,
-    "url": "blob:http://localhost/1f01c4d1-b8d8-4571-b607-b540cafca0c1",
-    "size": 3962919,
+    "name": "Mar de Copas - Un Día Sin Sexo.m4a",
+    "duration": 248.523174,
+    "size": 4451668,
     "type": "audio/mp4"
   },
   {
     "id": 8,
-    "name": "Nino Segarra - Como Amigo Si, Como Amante No.m4a",
-    "duration": 286.30204,
-    "url": "blob:http://localhost/5e44cfeb-afe1-42b7-992c-f9ace8707e7c",
-    "size": 4634180,
+    "name": "Michael Sembello - Maniac.m4a",
+    "duration": 244.706666,
+    "size": 3962919,
     "type": "audio/mp4"
   },
   {
     "id": 9,
-    "name": "Nino Segarra - Entre La Espada y La Pared.m4a",
-    "duration": 344.166167,
-    "url": "blob:http://localhost/ce61f15a-3cf4-4d40-b324-21b5ebf4c4a9",
-    "size": 5570761,
+    "name": "Miranda - Tu Misterioso Alguien.m4a",
+    "duration": 243.653333,
+    "size": 3945898,
     "type": "audio/mp4"
   },
   {
     "id": 10,
+    "name": "Nino Segarra - Como Amigo Si, Como Amante No.m4a",
+    "duration": 286.30204,
+    "size": 4634180,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 11,
+    "name": "Nino Segarra - Entre La Espada y La Pared.m4a",
+    "duration": 344.166167,
+    "size": 5570761,
+    "type": "audio/mp4"
+  },
+  {
+    "id": 12,
     "name": "Nino Segarra - Porque Te Amo.mp3",
     "duration": 306.99102,
-    "url": "blob:http://localhost/aa634881-3a77-4b43-beff-f331b888ce13",
     "size": 7369175,
     "type": "audio/mpeg"
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "Orlando Netti - Clásico.mp3",
     "duration": 241.085166,
-    "url": "blob:http://localhost/e26eeaaa-5b04-4de1-9e1b-c900a2e218bf",
     "size": 9699412,
     "type": "audio/mpeg"
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "Orquesta Inmensidad - Ay Que Amor.m4a",
     "duration": 234.053333,
-    "url": "blob:http://localhost/6e40d399-eef1-4a85-a5da-4a92968c927f",
     "size": 3790233,
     "type": "audio/mp4"
   },
   {
-    "id": 13,
+    "id": 15,
     "name": "Pedro Arroyo - Todo Me Huele A Ti.m4a",
     "duration": 322.08399,
-    "url": "blob:http://localhost/70d13b9a-4a86-46fc-aa43-70f82a365024",
     "size": 5213410,
     "type": "audio/mp4"
   },
   {
-    "id": 14,
-    "name": "Pedro Suárez Vértiz - Alguien Que Bese Como Tú .m4a",
-    "duration": 366.226666,
-    "url": "blob:http://localhost/50cef3eb-3698-4d43-8c53-2ce97e63c40b",
-    "size": 5929605,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 15,
+    "id": 16,
     "name": "Pedro Suárez Vértiz - Te Siento De Sólo Pensar.m4a",
     "duration": 202.408344,
-    "url": "blob:http://localhost/c08d824f-7f35-4bd3-b28a-1e653a8acb6b",
     "size": 3276501,
     "type": "audio/mp4"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Soda Stereo - Trátame Suavemente.m4a",
     "duration": 202.431564,
-    "url": "blob:http://localhost/ccba4fc1-ff13-42b1-ba47-cd50d0596087",
     "size": 3276968,
     "type": "audio/mp4"
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Virus - Sin Disfraz.m4a",
     "duration": 330.303854,
-    "url": "blob:http://localhost/4c3c46ca-368b-481c-97e5-4dc5c60b3f93",
     "size": 5346460,
     "type": "audio/mp4"
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "Willie Gonzalez - Hazme Olvidarla.m4a",
     "duration": 336.133333,
-    "url": "blob:http://localhost/58a1459b-65ec-41c4-ba65-ee8c3352c8d3",
     "size": 5442560,
     "type": "audio/mp4"
   }
