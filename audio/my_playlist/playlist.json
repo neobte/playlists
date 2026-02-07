@@ -1,135 +1,162 @@
-[
-  {
-    "id": 1,
-    "name": "Arena Hash - Como Te Va Mi Amor.m4a",
-    "duration": 329.584036,
-    "size": 5334728,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 2,
-    "name": "Arena Hash - Mil Horas De Amor.m4a",
-    "duration": 123.088979,
-    "size": 1992799,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 3,
-    "name": "Bob Marley - Jamming.m4a",
-    "duration": 213.437823,
-    "size": 3455080,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 4,
-    "name": "Grupo Río - Todo Estaba Bien.m4a",
-    "duration": 290.48,
-    "size": 4703219,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 5,
-    "name": "Justin Hurwitz - Fletcher's Song In Club.m4a",
-    "duration": 89.026666,
-    "size": 1443906,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 6,
-    "name": "Mar de Copas - Suna.m4a",
-    "duration": 260.693333,
-    "size": 4220820,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 7,
-    "name": "Mar de Copas - Un Día Sin Sexo.m4a",
-    "duration": 248.523174,
-    "size": 4451668,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 8,
-    "name": "Michael Sembello - Maniac.m4a",
-    "duration": 244.706666,
-    "size": 3962919,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 9,
-    "name": "Miranda - Tu Misterioso Alguien.m4a",
-    "duration": 243.653333,
-    "size": 3945898,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 10,
-    "name": "Nino Segarra - Como Amigo Si, Como Amante No.m4a",
-    "duration": 286.30204,
-    "size": 4634180,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 11,
-    "name": "Nino Segarra - Entre La Espada y La Pared.m4a",
-    "duration": 344.166167,
-    "size": 5570761,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 12,
-    "name": "Nino Segarra - Porque Te Amo.mp3",
-    "duration": 306.99102,
-    "size": 7369175,
-    "type": "audio/mpeg"
-  },
-  {
-    "id": 13,
-    "name": "Orlando Netti - Clásico.mp3",
-    "duration": 241.085166,
-    "size": 9699412,
-    "type": "audio/mpeg"
-  },
-  {
-    "id": 14,
-    "name": "Orquesta Inmensidad - Ay Que Amor.m4a",
-    "duration": 234.053333,
-    "size": 3790233,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 15,
-    "name": "Pedro Arroyo - Todo Me Huele A Ti.m4a",
-    "duration": 322.08399,
-    "size": 5213410,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 16,
-    "name": "Pedro Suárez Vértiz - Te Siento De Sólo Pensar.m4a",
-    "duration": 202.408344,
-    "size": 3276501,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 17,
-    "name": "Soda Stereo - Trátame Suavemente.m4a",
-    "duration": 202.431564,
-    "size": 3276968,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 18,
-    "name": "Virus - Sin Disfraz.m4a",
-    "duration": 330.303854,
-    "size": 5346460,
-    "type": "audio/mp4"
-  },
-  {
-    "id": 19,
-    "name": "Willie Gonzalez - Hazme Olvidarla.m4a",
-    "duration": 336.133333,
-    "size": 5442560,
-    "type": "audio/mp4"
+{
+  "id": 1,
+  "name": "salsa",
+  "description": "Lo mejor de la salsa romántica",
+  "tracks": {
+    "total": 19,
+    "items": [
+      {
+        "id": 1,
+        "artist": "Arena Hash",
+        "title": "Como Te Va Mi Amor",
+        "duration": 329.584036,
+        "size": 5334728,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 2,
+        "artist": "Arena Hash",
+        "title": "Mil Horas De Amor",
+        "duration": 123.08898,
+        "size": 1992799,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 3,
+        "artist": "Bob Marley",
+        "title": "Jamming",
+        "duration": 213.437823,
+        "size": 3455080,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 4,
+        "artist": "Grupo Río",
+        "title": "Todo Estaba Bien",
+        "duration": 290.48,
+        "size": 4703219,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 5,
+        "artist": "Justin Hurwitz",
+        "title": "Fletcher's Song In Club",
+        "duration": 89.026667,
+        "size": 1443906,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 6,
+        "artist": "Mar de Copas",
+        "title": "Suna",
+        "duration": 260.693333,
+        "size": 4220820,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 7,
+        "artist": "Mar de Copas",
+        "title": "Un Día Sin Sexo",
+        "duration": 248.523175,
+        "size": 4451668,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 8,
+        "artist": "Michael Sembello",
+        "title": "Maniac",
+        "duration": 244.706667,
+        "size": 3962919,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 9,
+        "artist": "Miranda",
+        "title": "Tu Misterioso Alguien",
+        "duration": 243.653333,
+        "size": 3945898,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 10,
+        "artist": "Nino Segarra",
+        "title": "Como Amigo Si, Como Amante No",
+        "duration": 286.302041,
+        "size": 4634180,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 11,
+        "artist": "Nino Segarra",
+        "title": "Entre La Espada y La Pared",
+        "duration": 344.166168,
+        "size": 5570761,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 12,
+        "artist": "Nino Segarra",
+        "title": "Porque Te Amo",
+        "duration": 306.99102,
+        "size": 7369175,
+        "type": "audio/mpeg"
+      },
+      {
+        "id": 13,
+        "artist": "Orlando Netti",
+        "title": "Clásico",
+        "duration": 241.085167,
+        "size": 9699412,
+        "type": "audio/mpeg"
+      },
+      {
+        "id": 14,
+        "artist": "Orquesta Inmensidad",
+        "title": "Ay Que Amor",
+        "duration": 234.053333,
+        "size": 3790233,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 15,
+        "artist": "Pedro Arroyo",
+        "title": "Todo Me Huele A Ti",
+        "duration": 322.083991,
+        "size": 5213410,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 16,
+        "artist": "Pedro Suárez Vértiz",
+        "title": "Te Siento De Sólo Pensar",
+        "duration": 202.408345,
+        "size": 3276501,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 17,
+        "artist": "Soda Stereo",
+        "title": "Trátame Suavemente",
+        "duration": 202.431565,
+        "size": 3276968,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 18,
+        "artist": "Virus",
+        "title": "Sin Disfraz",
+        "duration": 330.303855,
+        "size": 5346460,
+        "type": "audio/x-m4a"
+      },
+      {
+        "id": 19,
+        "artist": "Willie Gonzalez",
+        "title": "Hazme Olvidarla",
+        "duration": 336.133333,
+        "size": 5442560,
+        "type": "audio/x-m4a"
+      }
+    ]
   }
-]
+}
