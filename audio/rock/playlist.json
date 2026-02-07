@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "name": "salsa",
-  "description": "Lo mejor de la salsa romántica",
+  "id": 2,
+  "name": "rock",
+  "description": "Rock Argentino y Peruano old school",
   "tracks": {
     "total": 20,
     "items": [
