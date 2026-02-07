@@ -9,6 +9,7 @@
         "id": 1,
         "artist": "3-2 Get Funky",
         "title": "Si Ya No Estás",
+        "name": "3-2 Get Funky - Si Ya No Estás.m4a",
         "duration": 268.608435,
         "size": 4347893,
         "type": "audio/x-m4a"
@@ -17,6 +18,7 @@
         "id": 2,
         "artist": "Amilcar Boscan",
         "title": "Faltaba Una Razón",
+        "name": "Amilcar Boscan - Faltaba Una Razón.m4a",
         "duration": 268.283356,
         "size": 4342545,
         "type": "audio/x-m4a"
@@ -25,6 +27,7 @@
         "id": 3,
         "artist": "Antonio Cartagena",
         "title": "Necesito Un Amor",
+        "name": "Antonio Cartagena - Necesito Un Amor.m4a",
         "duration": 245.59746,
         "size": 3975522,
         "type": "audio/x-m4a"
@@ -33,6 +36,7 @@
         "id": 4,
         "artist": "Antonio Cartagena",
         "title": "Si Tú No Estás",
+        "name": "Antonio Cartagena - Si Tú No Estás.m4a",
         "duration": 293.982041,
         "size": 4760239,
         "type": "audio/x-m4a"
@@ -41,6 +45,7 @@
         "id": 5,
         "artist": "Antonio Cartagena",
         "title": "Sin Ti",
+        "name": "Antonio Cartagena - Sin Ti.m4a",
         "duration": 325.032925,
         "size": 5261124,
         "type": "audio/x-m4a"
@@ -49,6 +54,7 @@
         "id": 6,
         "artist": "Bobby Valentín",
         "title": "La Boda De Ella",
+        "name": "Bobby Valentín - La Boda De Ella.m4a",
         "duration": 326.4,
         "size": 5285409,
         "type": "audio/x-m4a"
@@ -57,6 +63,7 @@
         "id": 7,
         "artist": "Conjunto Clásico",
         "title": "Señora Ley",
+        "name": "Conjunto Clásico - Señora Ley.m4a",
         "duration": 252.066667,
         "size": 4081743,
         "type": "audio/x-m4a"
@@ -65,6 +72,7 @@
         "id": 8,
         "artist": "Dan Den",
         "title": "Torbellino De Amor",
+        "name": "Dan Den - Torbellino De Amor.m4a",
         "duration": 307.959375,
         "size": 4927606,
         "type": "audio/x-m4a"
@@ -73,6 +81,7 @@
         "id": 9,
         "artist": "David Pabón",
         "title": "Aquel Viejo Motel",
+        "name": "David Pabón - Aquel Viejo Motel.m4a",
         "duration": 308.866667,
         "size": 5001907,
         "type": "audio/x-m4a"
@@ -81,6 +90,7 @@
         "id": 10,
         "artist": "Dimensión Latina",
         "title": "Por Tu Proceder",
+        "name": "Dimensión Latina - Por Tu Proceder.m4a",
         "duration": 277.791927,
         "size": 4498922,
         "type": "audio/x-m4a"
@@ -89,6 +99,7 @@
         "id": 11,
         "artist": "Eddie Santiago",
         "title": "Antídoto Y Veneno",
+        "name": "Eddie Santiago - Antídoto Y Veneno.m4a",
         "duration": 318.453333,
         "size": 5156953,
         "type": "audio/x-m4a"
@@ -97,6 +108,7 @@
         "id": 12,
         "artist": "El Gran Combo",
         "title": "Amame",
+        "name": "El Gran Combo - Amame.m4a",
         "duration": 323.036009,
         "size": 5230206,
         "type": "audio/x-m4a"
@@ -105,6 +117,7 @@
         "id": 13,
         "artist": "El Gran Combo",
         "title": "Regresa Ya",
+        "name": "El Gran Combo - Regresa Ya.m4a",
         "duration": 256.835918,
         "size": 4159424,
         "type": "audio/x-m4a"
@@ -113,6 +126,7 @@
         "id": 14,
         "artist": "El Gran Combo",
         "title": "Trampolín",
+        "name": "El Gran Combo - Trampolín.m4a",
         "duration": 261.893333,
         "size": 4240555,
         "type": "audio/x-m4a"
@@ -121,6 +135,7 @@
         "id": 15,
         "artist": "El Gran Combo",
         "title": "Y No Hago Más Na",
+        "name": "El Gran Combo - Y No Hago Más Na.m4a",
         "duration": 298.68,
         "size": 4836811,
         "type": "audio/x-m4a"
@@ -129,6 +144,7 @@
         "id": 16,
         "artist": "Fania All Stars",
         "title": "Quitate Tú",
+        "name": "Fania All Stars - Quitate Tú.m4a",
         "duration": 1003.6361,
         "size": 16243540,
         "type": "audio/x-m4a"
@@ -137,6 +153,7 @@
         "id": 17,
         "artist": "Frankie Ruiz",
         "title": "Quiero Llenarte",
+        "name": "Frankie Ruiz - Quiero Llenarte.m4a",
         "duration": 273.066667,
         "size": 4421500,
         "type": "audio/x-m4a"
@@ -145,6 +162,7 @@
         "id": 18,
         "artist": "Frankie Ruiz",
         "title": "Si Te Entregas A Mi",
+        "name": "Frankie Ruiz - Si Te Entregas A Mi.m4a",
         "duration": 298.44,
         "size": 4833373,
         "type": "audio/x-m4a"
@@ -153,6 +171,7 @@
         "id": 19,
         "artist": "Frankie Ruiz",
         "title": "Tú Con El",
+        "name": "Frankie Ruiz - Tú Con El.m4a",
         "duration": 303.508027,
         "size": 4914147,
         "type": "audio/x-m4a"
@@ -161,6 +180,7 @@
         "id": 20,
         "artist": "Frankie Ruiz",
         "title": "Y No Puedo",
+        "name": "Frankie Ruiz - Y No Puedo.m4a",
         "duration": 273.32,
         "size": 4425879,
         "type": "audio/x-m4a"
@@ -169,6 +189,7 @@
         "id": 21,
         "artist": "Fruko Y Sus Tesos",
         "title": "El Preso",
+        "name": "Fruko Y Sus Tesos - El Preso.m4a",
         "duration": 291.535646,
         "size": 4720318,
         "type": "audio/x-m4a"
@@ -177,6 +198,7 @@
         "id": 22,
         "artist": "Giro López",
         "title": "Amor Lunático",
+        "name": "Giro López - Amor Lunático.m4a",
         "duration": 241.116009,
         "size": 3903047,
         "type": "audio/x-m4a"
@@ -185,6 +207,7 @@
         "id": 23,
         "artist": "Grupo Niche",
         "title": "Ana Milé",
+        "name": "Grupo Niche - Ana Milé.m4a",
         "duration": 338.373333,
         "size": 5479373,
         "type": "audio/x-m4a"
@@ -193,6 +216,7 @@
         "id": 24,
         "artist": "Grupo Niche",
         "title": "Entrega",
+        "name": "Grupo Niche - Entrega.m4a",
         "duration": 337.037642,
         "size": 5455361,
         "type": "audio/x-m4a"
@@ -201,6 +225,7 @@
         "id": 25,
         "artist": "Grupo Niche",
         "title": "Me Sabe A Perú",
+        "name": "Grupo Niche - Me Sabe A Perú.m4a",
         "duration": 259.482993,
         "size": 4200198,
         "type": "audio/x-m4a"
@@ -209,6 +234,7 @@
         "id": 26,
         "artist": "Grupo Niche",
         "title": "Mecánico",
+        "name": "Grupo Niche - Mecánico.m4a",
         "duration": 309.746667,
         "size": 5014725,
         "type": "audio/x-m4a"
@@ -217,6 +243,7 @@
         "id": 27,
         "artist": "Grupo Niche",
         "title": "Mujer De Novela",
+        "name": "Grupo Niche - Mujer De Novela.m4a",
         "duration": 315.6,
         "size": 5110364,
         "type": "audio/x-m4a"
@@ -225,6 +252,7 @@
         "id": 28,
         "artist": "Grupo Niche",
         "title": "No Cabe Duda",
+        "name": "Grupo Niche - No Cabe Duda.m4a",
         "duration": 352.555438,
         "size": 5645239,
         "type": "audio/x-m4a"
@@ -233,6 +261,7 @@
         "id": 29,
         "artist": "Grupo Niche",
         "title": "Nuestro Sueño",
+        "name": "Grupo Niche - Nuestro Sueño.m4a",
         "duration": 359.226667,
         "size": 5817124,
         "type": "audio/x-m4a"
@@ -241,6 +270,7 @@
         "id": 30,
         "artist": "Grupo Niche",
         "title": "Se Pareció Tanto A Ti",
+        "name": "Grupo Niche - Se Pareció Tanto A Ti.m4a",
         "duration": 328.492698,
         "size": 5317358,
         "type": "audio/x-m4a"
@@ -249,6 +279,7 @@
         "id": 31,
         "artist": "Grupo Niche",
         "title": "Te Enseñare A Olvidar",
+        "name": "Grupo Niche - Te Enseñare A Olvidar.m4a",
         "duration": 338.10576,
         "size": 5472544,
         "type": "audio/x-m4a"
@@ -257,6 +288,7 @@
         "id": 32,
         "artist": "Hansel Camacho",
         "title": "Tú Fidelidad",
+        "name": "Hansel Camacho - Tú Fidelidad.m4a",
         "duration": 305.133424,
         "size": 4939509,
         "type": "audio/x-m4a"
@@ -265,6 +297,7 @@
         "id": 33,
         "artist": "Héctor Lavoe",
         "title": "Ausencia",
+        "name": "Héctor Lavoe - Ausencia.m4a",
         "duration": 306.689161,
         "size": 4964118,
         "type": "audio/x-m4a"
@@ -273,6 +306,7 @@
         "id": 34,
         "artist": "Héctor Lavoe",
         "title": "Che Che Colé",
+        "name": "Héctor Lavoe - Che Che Colé.m4a",
         "duration": 213.495941,
         "size": 3457566,
         "type": "audio/x-m4a"
@@ -281,6 +315,7 @@
         "id": 35,
         "artist": "Héctor Lavoe",
         "title": "De Que Tamaño Es Tu Amor",
+        "name": "Héctor Lavoe - De Que Tamaño Es Tu Amor.m4a",
         "duration": 213.437823,
         "size": 3454989,
         "type": "audio/x-m4a"
@@ -289,6 +324,7 @@
         "id": 36,
         "artist": "Héctor Lavoe",
         "title": "Dejala Que Siga",
+        "name": "Héctor Lavoe - Dejala Que Siga.m4a",
         "duration": 387.657143,
         "size": 6274482,
         "type": "audio/x-m4a"
@@ -297,6 +333,7 @@
         "id": 37,
         "artist": "Héctor Lavoe",
         "title": "El Cantante",
+        "name": "Héctor Lavoe - El Cantante.m4a",
         "duration": 626.938776,
         "size": 10146992,
         "type": "audio/x-m4a"
@@ -305,6 +342,7 @@
         "id": 38,
         "artist": "Héctor Lavoe",
         "title": "El Todo Poderoso",
+        "name": "Héctor Lavoe - El Todo Poderoso.m4a",
         "duration": 262.68,
         "size": 4253666,
         "type": "audio/x-m4a"
@@ -313,6 +351,7 @@
         "id": 39,
         "artist": "Héctor Lavoe",
         "title": "Ella Mintió",
+        "name": "Héctor Lavoe - Ella Mintió.m4a",
         "duration": 286,
         "size": 4631552,
         "type": "audio/x-m4a"
@@ -321,6 +360,7 @@
         "id": 40,
         "artist": "Héctor Lavoe",
         "title": "Periodico De Ayer",
+        "name": "Héctor Lavoe - Periodico De Ayer.m4a",
         "duration": 409.135601,
         "size": 6622069,
         "type": "audio/x-m4a"
@@ -329,6 +369,7 @@
         "id": 41,
         "artist": "Héctor Lavoe",
         "title": "Rompe Saraguey",
+        "name": "Héctor Lavoe - Rompe Saraguey.m4a",
         "duration": 390.652517,
         "size": 6323040,
         "type": "audio/x-m4a"
@@ -337,6 +378,7 @@
         "id": 42,
         "artist": "Héctor Lavoe",
         "title": "Siento",
+        "name": "Héctor Lavoe - Siento.m4a",
         "duration": 390.629297,
         "size": 6322776,
         "type": "audio/x-m4a"
@@ -345,6 +387,7 @@
         "id": 43,
         "artist": "Héctor Lavoe",
         "title": "Sóngoro Cosongo",
+        "name": "Héctor Lavoe - Sóngoro Cosongo.m4a",
         "duration": 470.320181,
         "size": 7612374,
         "type": "audio/x-m4a"
@@ -353,6 +396,7 @@
         "id": 44,
         "artist": "Héctor Lavoe",
         "title": "Soñando Despierto",
+        "name": "Héctor Lavoe - Soñando Despierto.m4a",
         "duration": 243,
         "size": 3934950,
         "type": "audio/x-m4a"
@@ -361,6 +405,7 @@
         "id": 45,
         "artist": "Héctor Lavoe Y Willie Colón",
         "title": "Calle Luna, Calle Sol",
+        "name": "Héctor Lavoe Y Willie Colón - Calle Luna, Calle Sol.mp3",
         "duration": 225.452,
         "size": 3607232,
         "type": "audio/mpeg"
@@ -369,6 +414,7 @@
         "id": 46,
         "artist": "Ismael Miranda",
         "title": "Abran Paso",
+        "name": "Ismael Miranda - Abran Paso.m4a",
         "duration": 210.92,
         "size": 3415531,
         "type": "audio/x-m4a"
@@ -377,6 +423,7 @@
         "id": 47,
         "artist": "Ismael Miranda",
         "title": "Así Se Compone Un Son",
+        "name": "Ismael Miranda - Así Se Compone Un Son.m4a",
         "duration": 336.48,
         "size": 5448343,
         "type": "audio/x-m4a"
@@ -385,6 +432,7 @@
         "id": 48,
         "artist": "Ismael Miranda",
         "title": "Galera Tres",
+        "name": "Ismael Miranda - Galera Tres.m4a",
         "duration": 364.413333,
         "size": 5900002,
         "type": "audio/x-m4a"
@@ -393,6 +441,7 @@
         "id": 49,
         "artist": "Ismael Rivera",
         "title": "Incomprendido",
+        "name": "Ismael Rivera - Incomprendido.m4a",
         "duration": 176.88,
         "size": 2865579,
         "type": "audio/x-m4a"
@@ -401,6 +450,7 @@
         "id": 50,
         "artist": "Johnny Rivera",
         "title": "Necesito Una Amiga",
+        "name": "Johnny Rivera - Necesito Una Amiga.m4a",
         "duration": 313.748027,
         "size": 5078483,
         "type": "audio/x-m4a"
@@ -409,6 +459,7 @@
         "id": 51,
         "artist": "Johnny Rivera",
         "title": "Por Eso Está Conmigo",
+        "name": "Johnny Rivera - Por Eso Está Conmigo.m4a",
         "duration": 278.639456,
         "size": 4510465,
         "type": "audio/x-m4a"
@@ -417,6 +468,7 @@
         "id": 52,
         "artist": "Johnny Rojas",
         "title": "Adicto A Ti",
+        "name": "Johnny Rojas - Adicto A Ti.m4a",
         "duration": 326.008118,
         "size": 4102383,
         "type": "audio/x-m4a"
@@ -425,6 +477,7 @@
         "id": 53,
         "artist": "Jose Alberto El Canario",
         "title": "Que Muera El Amor",
+        "name": "Jose Alberto El Canario - Que Muera El Amor.m4a",
         "duration": 313.608707,
         "size": 5076786,
         "type": "audio/x-m4a"
@@ -433,6 +486,7 @@
         "id": 54,
         "artist": "Justo Betancourt",
         "title": "Pa' Bravo Yo",
+        "name": "Justo Betancourt - Pa' Bravo Yo.m4a",
         "duration": 224.826667,
         "size": 3641259,
         "type": "audio/x-m4a"
@@ -441,6 +495,7 @@
         "id": 55,
         "artist": "La Misma Gente",
         "title": "Llegaste Tú",
+        "name": "La Misma Gente - Llegaste Tú.m4a",
         "duration": 266.631837,
         "size": 4318315,
         "type": "audio/x-m4a"
@@ -449,6 +504,7 @@
         "id": 56,
         "artist": "La Misma Gente",
         "title": "Llégo El Final",
+        "name": "La Misma Gente - Llégo El Final.m4a",
         "duration": 343.562449,
         "size": 5562791,
         "type": "audio/x-m4a"
@@ -457,6 +513,7 @@
         "id": 57,
         "artist": "La Misma Gente",
         "title": "Tú Y Yo",
+        "name": "La Misma Gente - Tú Y Yo.m4a",
         "duration": 286.32,
         "size": 4636602,
         "type": "audio/x-m4a"
@@ -465,6 +522,7 @@
         "id": 58,
         "artist": "Lalo Rodriguez",
         "title": "Ven Devórame Otra Vez",
+        "name": "Lalo Rodriguez - Ven Devórame Otra Vez.m4a",
         "duration": 307.617959,
         "size": 4981798,
         "type": "audio/x-m4a"
@@ -473,6 +531,7 @@
         "id": 59,
         "artist": "Larry Harlow",
         "title": "La Cartera",
+        "name": "Larry Harlow - La Cartera.m4a",
         "duration": 386.853333,
         "size": 6263410,
         "type": "audio/x-m4a"
@@ -481,6 +540,7 @@
         "id": 60,
         "artist": "Los Hermanos Moreno",
         "title": "No Hay Motivo",
+        "name": "Los Hermanos Moreno - No Hay Motivo.m4a",
         "duration": 304.953469,
         "size": 4937677,
         "type": "audio/x-m4a"
@@ -489,6 +549,7 @@
         "id": 61,
         "artist": "Los Hermanos Moreno",
         "title": "Por Alguien Como Tú",
+        "name": "Los Hermanos Moreno - Por Alguien Como Tú.m4a",
         "duration": 214.94712,
         "size": 2732078,
         "type": "audio/x-m4a"
@@ -497,6 +558,7 @@
         "id": 62,
         "artist": "Los Hermanos Moreno",
         "title": "Un Hombre Busca Una Mujer",
+        "name": "Los Hermanos Moreno - Un Hombre Busca Una Mujer.m4a",
         "duration": 298.788571,
         "size": 4838800,
         "type": "audio/x-m4a"
@@ -505,6 +567,7 @@
         "id": 63,
         "artist": "Los Titanes",
         "title": "Compárame",
+        "name": "Los Titanes - Compárame.m4a",
         "duration": 263.4,
         "size": 4265552,
         "type": "audio/x-m4a"
@@ -513,6 +576,7 @@
         "id": 64,
         "artist": "Los Titanes",
         "title": "Diré Que Te Amo",
+        "name": "Los Titanes - Diré Que Te Amo.m4a",
         "duration": 266.183129,
         "size": 4310766,
         "type": "audio/x-m4a"
@@ -521,6 +585,7 @@
         "id": 65,
         "artist": "Los Titanes",
         "title": "Sobredosis",
+        "name": "Los Titanes - Sobredosis.m4a",
         "duration": 249.878639,
         "size": 4045568,
         "type": "audio/x-m4a"
@@ -529,6 +594,7 @@
         "id": 66,
         "artist": "Luis Enrique",
         "title": "Lo Que Pasó Entre Tú Y Yo Pasó",
+        "name": "Luis Enrique - Lo Que Pasó Entre Tú Y Yo Pasó.m4a",
         "duration": 280.589932,
         "size": 4541802,
         "type": "audio/x-m4a"
@@ -537,6 +603,7 @@
         "id": 67,
         "artist": "Luis Enrique",
         "title": "Mi Mundo",
+        "name": "Luis Enrique - Mi Mundo.m4a",
         "duration": 283.733333,
         "size": 4594375,
         "type": "audio/x-m4a"
@@ -545,6 +612,7 @@
         "id": 68,
         "artist": "Luis Enrique",
         "title": "Tú No Le Amas Le Temes",
+        "name": "Luis Enrique - Tú No Le Amas Le Temes.m4a",
         "duration": 269.722993,
         "size": 4365943,
         "type": "audio/x-m4a"
@@ -553,6 +621,7 @@
         "id": 69,
         "artist": "Luis Enrique, Hansel Y Raúl",
         "title": "Ella",
+        "name": "Luis Enrique, Hansel Y Raúl - Ella.m4a",
         "duration": 348.6,
         "size": 5645088,
         "type": "audio/x-m4a"
@@ -561,6 +630,7 @@
         "id": 70,
         "artist": "Luisito Carrión",
         "title": "La Fuga",
+        "name": "Luisito Carrión - La Fuga.m4a",
         "duration": 274.390204,
         "size": 4443042,
         "type": "audio/x-m4a"
@@ -569,6 +639,7 @@
         "id": 71,
         "artist": "Mickey Taveras",
         "title": "A Pesar Del Tiempo",
+        "name": "Mickey Taveras - A Pesar Del Tiempo.m4a",
         "duration": 295.626667,
         "size": 4787185,
         "type": "audio/x-m4a"
@@ -577,6 +648,7 @@
         "id": 72,
         "artist": "Nino Segarra",
         "title": "Como Amigos Si, Como Amantes No",
+        "name": "Nino Segarra - Como Amigos Si, Como Amantes No.m4a",
         "duration": 293.24,
         "size": 4748288,
         "type": "audio/x-m4a"
@@ -585,6 +657,7 @@
         "id": 73,
         "artist": "Nino Segarra",
         "title": "Entre La Espada Y La Pared",
+        "name": "Nino Segarra - Entre La Espada Y La Pared.m4a",
         "duration": 344.373333,
         "size": 5575998,
         "type": "audio/x-m4a"
@@ -593,6 +666,7 @@
         "id": 74,
         "artist": "Nino Segarra",
         "title": "Porque Te Amo",
+        "name": "Nino Segarra - Porque Te Amo.m4a",
         "duration": 306.96,
         "size": 4971016,
         "type": "audio/x-m4a"
@@ -601,6 +675,7 @@
         "id": 75,
         "artist": "Orquesta Harlow",
         "title": "El Paso De Encarnación",
+        "name": "Orquesta Harlow - El Paso De Encarnación.m4a",
         "duration": 314.96,
         "size": 5099646,
         "type": "audio/x-m4a"
@@ -609,6 +684,7 @@
         "id": 76,
         "artist": "Orquesta Inmensidad",
         "title": "Ay Que Amor",
+        "name": "Orquesta Inmensidad - Ay Que Amor.m4a",
         "duration": 234.053333,
         "size": 3790233,
         "type": "audio/x-m4a"
@@ -617,6 +693,7 @@
         "id": 77,
         "artist": "Orquesta Octava Dimensión",
         "title": "Nunca Cambies",
+        "name": "Orquesta Octava Dimensión - Nunca Cambies.m4a",
         "duration": 271.020975,
         "size": 4388322,
         "type": "audio/x-m4a"
@@ -625,6 +702,7 @@
         "id": 78,
         "artist": "Orquesta Sabrosura",
         "title": "Cuando Aparezca El Amor",
+        "name": "Orquesta Sabrosura - Cuando Aparezca El Amor.m4a",
         "duration": 283.575986,
         "size": 4591818,
         "type": "audio/x-m4a"
@@ -633,6 +711,7 @@
         "id": 79,
         "artist": "Orquesta Sociedad 76",
         "title": "La Solución De La Salsa",
+        "name": "Orquesta Sociedad 76 - La Solución De La Salsa.m4a",
         "duration": 225.48,
         "size": 3651885,
         "type": "audio/x-m4a"
@@ -641,6 +720,7 @@
         "id": 80,
         "artist": "Paquito Guzmán",
         "title": "Qué Voy A Hacer Sin Ti",
+        "name": "Paquito Guzmán - Qué Voy A Hacer Sin Ti.m4a",
         "duration": 332.644331,
         "size": 5385723,
         "type": "audio/x-m4a"
@@ -649,6 +729,7 @@
         "id": 81,
         "artist": "Pedro Conga",
         "title": "Me Niegas Tanto Amor",
+        "name": "Pedro Conga - Me Niegas Tanto Amor.m4a",
         "duration": 283.75,
         "size": 4540256,
         "type": "audio/x-m4a"
@@ -657,6 +738,7 @@
         "id": 82,
         "artist": "Polo Montañez",
         "title": "Un Montón De Estrellas",
+        "name": "Polo Montañez - Un Montón De Estrellas.m4a",
         "duration": 364.573333,
         "size": 5902750,
         "type": "audio/x-m4a"
@@ -665,6 +747,7 @@
         "id": 83,
         "artist": "Puerto Rican Power",
         "title": "Solo Con Un Beso",
+        "name": "Puerto Rican Power - Solo Con Un Beso.m4a",
         "duration": 296.693333,
         "size": 4804731,
         "type": "audio/x-m4a"
@@ -673,6 +756,7 @@
         "id": 84,
         "artist": "Ray Sepúlveda",
         "title": "No Vale La Pena Enamorarse",
+        "name": "Ray Sepúlveda - No Vale La Pena Enamorarse.m4a",
         "duration": 353.47737,
         "size": 5721460,
         "type": "audio/x-m4a"
@@ -681,6 +765,7 @@
         "id": 85,
         "artist": "Ray Sepúlveda",
         "title": "Una Mujer Como Tú",
+        "name": "Ray Sepúlveda - Una Mujer Como Tú.m4a",
         "duration": 289.274195,
         "size": 4682338,
         "type": "audio/x-m4a"
@@ -689,6 +774,7 @@
         "id": 86,
         "artist": "Rey Ruiz",
         "title": "Mi Media Mitad",
+        "name": "Rey Ruiz - Mi Media Mitad.m4a",
         "duration": 293.500227,
         "size": 4750798,
         "type": "audio/x-m4a"
@@ -697,6 +783,7 @@
         "id": 87,
         "artist": "Rubby Haddock And Orchesta",
         "title": "Todo Me Huele A Ti",
+        "name": "Rubby Haddock And Orchesta - Todo Me Huele A Ti.m4a",
         "duration": 323.16,
         "size": 5232303,
         "type": "audio/x-m4a"
@@ -705,6 +792,7 @@
         "id": 88,
         "artist": "Salsa Kids",
         "title": "Siempre",
+        "name": "Salsa Kids - Siempre.m4a",
         "duration": 299.363265,
         "size": 5889781,
         "type": "audio/x-m4a"
@@ -713,6 +801,7 @@
         "id": 89,
         "artist": "Son Habana",
         "title": "Te Dejo Libre",
+        "name": "Son Habana - Te Dejo Libre.m4a",
         "duration": 353.867007,
         "size": 5729811,
         "type": "audio/x-m4a"
@@ -721,6 +810,7 @@
         "id": 90,
         "artist": "Sonora Ponceña",
         "title": "Boranda",
+        "name": "Sonora Ponceña - Boranda.m4a",
         "duration": 434.973333,
         "size": 7042133,
         "type": "audio/x-m4a"
@@ -729,6 +819,7 @@
         "id": 91,
         "artist": "Sonora Ponceña",
         "title": "Sola Vaya",
+        "name": "Sonora Ponceña - Sola Vaya.m4a",
         "duration": 377.213424,
         "size": 6107877,
         "type": "audio/x-m4a"
@@ -737,6 +828,7 @@
         "id": 92,
         "artist": "Sonora Ponceña",
         "title": "Yambeque",
+        "name": "Sonora Ponceña - Yambeque.m4a",
         "duration": 381.852154,
         "size": 6180693,
         "type": "audio/x-m4a"
@@ -745,6 +837,7 @@
         "id": 93,
         "artist": "Sonora Ponceña",
         "title": "Yaré",
+        "name": "Sonora Ponceña - Yaré.m4a",
         "duration": 351.546667,
         "size": 5691612,
         "type": "audio/x-m4a"
@@ -753,6 +846,7 @@
         "id": 94,
         "artist": "The Latin Brothers",
         "title": "Buscándote",
+        "name": "The Latin Brothers - Buscándote.m4a",
         "duration": 277.636009,
         "size": 4496517,
         "type": "audio/x-m4a"
@@ -761,6 +855,7 @@
         "id": 95,
         "artist": "The Latin Brothers",
         "title": "Patrona De Los Reclusos",
+        "name": "The Latin Brothers - Patrona De Los Reclusos.m4a",
         "duration": 375.2,
         "size": 6074965,
         "type": "audio/x-m4a"
@@ -769,6 +864,7 @@
         "id": 96,
         "artist": "The New York Band",
         "title": "Nadie Como Tú",
+        "name": "The New York Band - Nadie Como Tú.m4a",
         "duration": 287.370159,
         "size": 4651545,
         "type": "audio/x-m4a"
@@ -777,6 +873,7 @@
         "id": 97,
         "artist": "Tito Allen",
         "title": "Como Tú",
+        "name": "Tito Allen - Como Tú.m4a",
         "duration": 356.64,
         "size": 5774791,
         "type": "audio/x-m4a"
@@ -785,6 +882,7 @@
         "id": 98,
         "artist": "Tito Nieves",
         "title": "De Mi Enamorate",
+        "name": "Tito Nieves - De Mi Enamorate.m4a",
         "duration": 309.323875,
         "size": 4950016,
         "type": "audio/x-m4a"
@@ -793,6 +891,7 @@
         "id": 99,
         "artist": "Tito Rojas",
         "title": "Siempre Seré",
+        "name": "Tito Rojas - Siempre Seré.m4a",
         "duration": 322.50195,
         "size": 5221477,
         "type": "audio/x-m4a"
@@ -801,6 +900,7 @@
         "id": 100,
         "artist": "Viti Ruiz",
         "title": "Caricias Prohibidas",
+        "name": "Viti Ruiz - Caricias Prohibidas.m4a",
         "duration": 319.018957,
         "size": 5164092,
         "type": "audio/x-m4a"
@@ -809,6 +909,7 @@
         "id": 101,
         "artist": "Willie Colón",
         "title": "Oh Qué Será",
+        "name": "Willie Colón - Oh Qué Será.m4a",
         "duration": 396.759365,
         "size": 6422045,
         "type": "audio/x-m4a"
@@ -817,6 +918,7 @@
         "id": 102,
         "artist": "Willie Colón",
         "title": "Sin Poderte Hablar",
+        "name": "Willie Colón - Sin Poderte Hablar.m4a",
         "duration": 321.261746,
         "size": 5201271,
         "type": "audio/x-m4a"
@@ -825,6 +927,7 @@
         "id": 103,
         "artist": "Willie Colón Y Héctor Lavoe",
         "title": "Aguanile",
+        "name": "Willie Colón Y Héctor Lavoe - Aguanile.m4a",
         "duration": 396.991565,
         "size": 6425648,
         "type": "audio/x-m4a"
@@ -833,6 +936,7 @@
         "id": 104,
         "artist": "Willie Colón Y Héctor Lavoe",
         "title": "El Día De Mi Suerte",
+        "name": "Willie Colón Y Héctor Lavoe - El Día De Mi Suerte.m4a",
         "duration": 353.38449,
         "size": 5719958,
         "type": "audio/x-m4a"
@@ -841,6 +945,7 @@
         "id": 105,
         "artist": "Willie González",
         "title": "Hazme Olvidarla",
+        "name": "Willie González - Hazme Olvidarla.m4a",
         "duration": 337.173333,
         "size": 5460093,
         "type": "audio/x-m4a"
@@ -849,6 +954,7 @@
         "id": 106,
         "artist": "Willie González",
         "title": "No Podrás Escapar De Mi",
+        "name": "Willie González - No Podrás Escapar De Mi.m4a",
         "duration": 332.533333,
         "size": 5383825,
         "type": "audio/x-m4a"
@@ -857,6 +963,7 @@
         "id": 107,
         "artist": "Willie González",
         "title": "Quiero Morir En Tu Piel",
+        "name": "Willie González - Quiero Morir En Tu Piel.m4a",
         "duration": 377.16,
         "size": 6107031,
         "type": "audio/x-m4a"
@@ -865,6 +972,7 @@
         "id": 108,
         "artist": "Willie González",
         "title": "Si Tú Fueras Mia",
+        "name": "Willie González - Si Tú Fueras Mia.m4a",
         "duration": 307.133333,
         "size": 4973443,
         "type": "audio/x-m4a"
@@ -873,6 +981,7 @@
         "id": 109,
         "artist": "Willie González",
         "title": "Tanto Amor",
+        "name": "Willie González - Tanto Amor.m4a",
         "duration": 265.864,
         "size": 4258176,
         "type": "audio/x-m4a"
@@ -881,6 +990,7 @@
         "id": 110,
         "artist": "Willie Rosario",
         "title": "Anuncio Clasificado",
+        "name": "Willie Rosario - Anuncio Clasificado.m4a",
         "duration": 301.010522,
         "size": 4873629,
         "type": "audio/x-m4a"
@@ -889,6 +999,7 @@
         "id": 111,
         "artist": "Willie Rosario",
         "title": "El Timbal De Carlitos",
+        "name": "Willie Rosario - El Timbal De Carlitos.m4a",
         "duration": 331.2065,
         "size": 5334120,
         "type": "audio/x-m4a"
@@ -897,6 +1008,7 @@
         "id": 112,
         "artist": "Willie Rosario",
         "title": "La Mitad",
+        "name": "Willie Rosario - La Mitad.m4a",
         "duration": 330.933333,
         "size": 5357638,
         "type": "audio/x-m4a"
@@ -905,6 +1017,7 @@
         "id": 113,
         "artist": "Willie Rosario",
         "title": "Tormenta",
+        "name": "Willie Rosario - Tormenta.m4a",
         "duration": 401.222688,
         "size": 6422528,
         "type": "audio/x-m4a"
@@ -913,6 +1026,7 @@
         "id": 114,
         "artist": "Wilmer Cartagena",
         "title": "Un Amor Como El Tuyo",
+        "name": "Wilmer Cartagena - Un Amor Como El Tuyo.m4a",
         "duration": 291.99093,
         "size": 4727940,
         "type": "audio/x-m4a"
